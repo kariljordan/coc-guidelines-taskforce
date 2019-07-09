@@ -1,44 +1,41 @@
-# The Carpentries Code of Conduct 
-## Reporting Guidelines and Enforcement Guidelines Task Force Charter
+# Task Force Charter 
+## Recommendations for incidents outside The Carpentries Code of Conduct committee
 
 __Context__  
-In the last year, incidents surrounding [The Carpentries Code of Conduct (CoC)](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) highlighted issues with enforcing the CoC and adjudicating reported CoC violations. As a result, and due to multiple Lesson Programs (Software Carpentry, Data Carpentry and Library Carpentry) becoming The Carpentries, there have been updates to governance and policy documents, including [updates to the Code of Conduct](https://carpentries.org/blog/2018/09/coc-revision-release/).
-
-Updates to the CoC were segmented in three parts: 1) The Carpentries Code of Conduct, 2) Incident Reporting Guidelines, and 3) Enforcement Manual. The process of updating 1) and 2) took five months (from April 2018 through September 2018)
-
-Since completion of the CoC update, there have been two CoC incidents reported.
-
-* __Incident #1:__ Reported 2018-09-07, Resolved 2018-10-17 
-* __Incident #2:__ Reported 2018-09-27, Resolved 2018-10-19
-
-For more information, see the [Code of Conduct Transparency Report](https://github.com/carpentries/executive-council-info/blob/master/code-of-conduct-transparency-reports/2018-11-09-coc-transparency-report.md).
-
-These two incidents were assessed under the current enforcement manual, which prevented the committee from arriving at a resolution swiftly. The Executive Council has expressed concern with the lack of timeliness as it relates to resolving CoC incident reports. The CoC Committee serves to respond and resolve CoC incident reports, and update documentation. Though work has been completed to update our Code of Conduct, the CoC committee could use additional expertise to update the reporting guidelines and enforcement manual. Such updates include, but are not limited to: 
-
-* Receiving a report (via a secure form)
-* Handling a report (in terms of data storage, meetings, etc.)
-* Resolving a report
-* Communicating about incidents
+With a growing community and an increasing number of Carpentries spaces (online and in-person), The Carpentries is encountering cases where a response to incidents either in or outside of Carpentries spaces may be appropriate, but are outside our formal guidelines and processes. Our Code of Conduct (CoC) and Code of Conduct Committee are now quite mature and in operation for incidents that fall within their scope. There is less clarity around incidents outside the Code of Conduct committee’s current purview, including incidents that may have occurred outside of Carpentries spaces, incidents that happen within Carpentries spaces that are either not reported or are not yet incidents, or where people would like to share information or get feedback, rather than formally report an incident. These incidents may impact the ability of members to feel safe working in our community. We want to respond to these events in a timely manner and in a consistent way that balances transparency, confidentiality and legal considerations. 
 
 __Objectives__  
-The objective of this task force is to update our Reporting Guidelines and Enforcement Manual and Guidelines and processes. We want all members of our community to understand the process, for reporters to feel safe and supported in reporting an incident and in the community, to ensure a confidential process, and for people under review to have access to a fair and unbiased review. We want to be able to handle Code of Conduct reports respectfully, in a timely manner and with appropriate communication and transparency in accordance with our Code of Conduct. A draft lists of tasks to meet our objective is as follows:
+Our objective is to convene a task force that will make __recommendations__ for guidelines, approaches, support structures or policies that could be developed to respond to incidents that happen outside the scope of the Carpentries Code of Conduct committee. We will write a report that the Executive Council can use to plan and execute an implementation strategy. A draft list of tasks to meet our objective is as follows:
 
-1. Identify practices of organizations similar to The Carpentries for reviewing, responding to, and enforcing CoC violations.
-2. Revise The Carpentries Code of Conduct Enforcement Manual per the recommendations and [issues with implementation document](https://docs.google.com/document/d/1S_Jjh_kGaCqS9QUnzmlsKfACu3fo8yGNROUa8kTlhg0/edit?usp=sharing). 
-3. Update the Reporting Guidelines to include a secure collection method.
-4. Develop guidelines and processes about how reports are collected, stored and shared.
-5. Develop guidelines for termed suspension from The Carpentries.
-6. Develop guidelines for coaching and reinstatement to The Carpentries.
-7. Develop guidelines for termination from The Carpentries.
-8. Offer incident response protocol recommendations to the CoC Committee.
-9. Develop communication templates and guidelines for committee and incident response.
-10. Develop an appeal process.
-11. Address legal issues that may arise in code of conduct incident matters.
-12. Develop guidelines for communicating with staff and the Executive Council about CoC incidents.
+1. Develop an application process to recruit 2-3 task force members from The Carpentries community.
+2. Investigate legal and confidentiality considerations internationally around collecting, acting on and sharing information.
+3. Collect concerns around issues that people have been aware of occurring within Carpentries spaces.
+4. Collect concerns around issues that people have been aware of occurring outside of Carpentries spaces, that may have impacted our community members or feelings of safety in Carpentries spaces.
+5. Develop an understanding of when the community wants The Carpentries to respond to potential incidents and in what ways. 
+6. Identify practices of other organizations (e.g. scientific societies, non-profits) for handling incidents outside the scope of their Code of Conduct committee. 
+7. Develop recommendations for what types of internal incidents will generate a response from The Carpentries.
+8. Develop recommendations for what types of external incidents will generate a Carpentries response.
+9. Develop recommendations and scope for new policies / procedures / guidelines for handling out-of-scope incidents, including the responsibility for decisions and communication.
+10. Develop recommendations for support structures that could be a part of implementing the recommendations of this Task Force.
+Communicate outcomes to the broader Carpentries community.
+
 
 __Deliverables__  
 The following deliverables are the intended outcomes of this task force:
-1. Revised enforcement manual and reporting guidelines in The Carpentries handbook including update log.
-2. Blog post summary of task force meetings/discussions with release of enforcement manual and reporting guidelines.
-3. Incident response checklist to be added to The Carpentries handbook along with revised enforcement manual and reporting guidelines. 
 
+1. Formal report to the Executive Council including: 
+  - Recommendations that can be used to develop support structures and/or draft guidelines for incidents that happen outside the scope of The Carpentries Code of Conduct committee.
+  - Recommendations that can be used to develop support structures and/or draft guidelines for handling incidents that happen within Carpentries spaces that are either not reported or are not yet incidents.
+  - Recommendation report of task force meetings/discussions and recommendations to be shared with the community and Executive Council.
+2. Regularly and consistently updating the public [GitHub project](https://github.com/carpentries/coc-guidelines-taskforce) on the status of this work.  
+
+__Task Force Members__
+To complete this charge, we will solicit 2-3 task force members from within The Carpentries community having any combination of the following experience and expertise:
+
+1. Having worked on other Code of Conduct committees
+2. Legal expertise
+3. Expertise in cross-cultural communication
+4. Experience writing policy
+5. Conflict resolution experience
+6. Having worked served on a task force
+7. Geographic and language diversity
